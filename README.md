@@ -1,4 +1,4 @@
-# 🩺 MediBot AI
+# 🩺 MediLens AI
 
 MediBot AI is a Medical RAG (Retrieval-Augmented Generation) chatbot built using Streamlit, LangChain, FAISS, Groq LLM, and Google Gemini Vision.
 
